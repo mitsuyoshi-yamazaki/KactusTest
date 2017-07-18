@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "iPhone 7",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -30,6 +30,24 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
@@ -43,11 +61,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.5272029042243958,
+    "green": 0.9127496480941772,
+    "red": 0.7211930155754089
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
